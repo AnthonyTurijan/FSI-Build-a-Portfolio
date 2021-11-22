@@ -29,3 +29,11 @@ myButton {
     background: #1C6EA4; }
     .myButton:active {
     background: #144E75; }
+p {
+    font-family:fantasy ;
+}
+h3 {
+    border-style:groove;
+    border-color: turquoise;
+    text-align: center
+}
