@@ -1,0 +1,31 @@
+h1 {
+    border-style: solid;
+    border-color: #dfb783;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font: bold;
+    font-family: cursive;
+}
+body {
+  background-color: #DDFFCC;
+} 
+img {
+    border-radius: 50px;
+    border-color: #dfb783;
+    border-style:solid;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+div {
+    text-align: center;
+}
+myButton {
+    cursor:copy; color: rgb(255, 255, 255); font-size: 20px; line-height: 20px; padding: 12px; border-radius: 3px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px outset rgba(28, 110, 164, 0.34); display: inline-block;}
+    .myButton:hover {
+    background: #1C6EA4; }
+    .myButton:active {
+    background: #144E75; }
